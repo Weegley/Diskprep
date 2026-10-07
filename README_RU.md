@@ -1,3 +1,5 @@
+English version: [README.md](README.md)
+
 # DiskPrep v1.0
 
 Автономный GUI для DiskPart и помощник по подготовке дисков для установки Windows в WinPE, с дополнительным режимом `/winsetup` для выбора целевого раздела и интеграцией с Ventoy.
