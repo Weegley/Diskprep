@@ -4,6 +4,9 @@ A standalone DiskPart GUI and Windows Setup disk preparation helper for WinPE, w
 
 DiskPrep is intentionally small: it exposes common disk-preparation operations in a native Win32 GUI, warns about risky or incompatible choices, and leaves the final decision to the user.
 
+<img alt="изображение" src="https://github.com/user-attachments/assets/053b5c21-a551-41a3-8b59-eb12c13a1be0" />
+
+
 ## Design
 
 - Native Win32 C++17.
