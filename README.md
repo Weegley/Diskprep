@@ -1,3 +1,5 @@
+Русская версия: [README_RU.md](README_RU.md)
+
 # DiskPrep v1.0
 
 A standalone DiskPart GUI and Windows Setup disk preparation helper for WinPE, with optional `/winsetup` target selection and Ventoy integration.
