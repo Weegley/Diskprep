@@ -1,6 +1,10 @@
+internal/
+pack.bat
 .vs/
 bin/
 obj/
 *.user
 *.suo
 rebuild.cmd
+VentoyInjection.7z
+VentoyInjection/DiskPrep/*.exe
