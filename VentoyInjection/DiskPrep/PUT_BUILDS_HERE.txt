@@ -1,0 +1,12 @@
+Copy Release builds into this folder before creating the Ventoy injection archive:
+
+  DiskPrep_x64.exe
+  DiskPrep_x86.exe
+
+The final injection archive root should contain:
+
+  VentoyAutoRun.bat
+  DiskPrep\LaunchDiskPrep.cmd
+  DiskPrep\DiskPrep_x64.exe
+  DiskPrep\DiskPrep_x86.exe
+  Windows\System32\winpeshl.ini
