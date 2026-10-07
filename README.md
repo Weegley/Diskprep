@@ -144,13 +144,12 @@ Open `DiskPrep.sln` in Visual Studio 2022 with **Desktop development with C++** 
 Build:
 
 ```text
-Release | Win32 -> bin\Release\DiskPrep_x86.exe
+Release | x86   -> bin\Release\DiskPrep_x86.exe
 Release | x64   -> bin\Release\DiskPrep_x64.exe
 ```
 
 Both Release configurations use the static C/C++ runtime.
 
-`rebuild.cmd` builds both Release targets using the Visual Studio 2022 Professional MSBuild path configured in the script.
 
 ## Notes and limitations
 
